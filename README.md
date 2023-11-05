@@ -1,2 +1,2 @@
 # start
-my first project
+my first project - about to have some zip packages for downloading soon ...
